@@ -1,8 +1,8 @@
-Origin: ricklantis Repo
-Label: ricklantis initial Repo
+Origin: Ricklantis
+Label: Ricklantis Repo
 Suite: stable
 Version: 1.0
-Codename: ricklantisrepo
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Official ricklantis Repo
+Description: Ricklantis Repo for tweaks and  more
