@@ -1,0 +1,9 @@
+Package: com.ricklantis.joedockclear
+Name: joedockclear
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome iPad Clear Dock tweak! My first one too
+Maintainer: Ricklantis <ricklantistherickestofricks@gmail.com>
+Author: Ricklantis
+Depends: mobilesubstrate
+Section: Tweaks
